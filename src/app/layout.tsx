@@ -6,9 +6,9 @@ import SmoothScroll from "@/hooks/SmoothScroll";
 import "./globals.scss";
 
 export const metadata: Metadata = {
-    title: "Isak - Personal Portfolio",
+    title: "Umar Farooq - Personal Portfolio",
     description:
-        "Isak - Personal Portfolio is a sleek and modern Next.js template designed for developers, designers, freelancers, and professionals who want to showcase their work online.",
+        " ",
     authors: [{ name: "themesflat.com" }],
     icons: {
         icon: "/assets/images/logo/favicon.svg",
