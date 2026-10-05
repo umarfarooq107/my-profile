@@ -3,7 +3,7 @@ export const profile = {
   shortName: "Umar",
   duty: "Software & Web Apps Engineer",
   introBio: "I help startups grow with smart design and no-code development, based in Cupertino, CA.",
-  email: "hello@isak.design",
+  email: "umarroy321@gmail.com",
   rotatingNames: ["Umar", "Engineer", "Developer"],
   socials: [
     { icon: "icon-x", href: "#", label: "X" },

@@ -10,33 +10,33 @@ export type Work = {
 
 export const works: Work[] = [
   {
-    title: "Drone",
+    title: "Recipt Generator",
     description:
-      "Brand and website for a drone startup, blending futuristic visuals with trust-driven design",
+      "React-based Receipt Generator for creating and managing professional receipts quickly.",
     year: "2024",
     role: "Lead Product Designer",
     tags: ["Brand", "Website", "Webflow"],
-    image: "/assets/images/section/work-1.jpg",
+    image: "/assets/images/section/reciptfull.jpg",
     logo: "/assets/images/logo/logo-2.svg",
   },
   {
-    title: "Durotan",
+    title: "EMS",
     description:
-      "Minimal e-commerce identity and website crafted to highlight timeless fashion essentials",
+      "React-based Employee Management System with role-based dashboards and task management.",
     year: "2024",
     role: "Lead Product Designer",
     tags: ["Brand", "Website", "Webflow"],
-    image: "/assets/images/section/work-2.jpg",
+    image: "/assets/images/section/Screenshot 2026-10-05 220500.jpg",
     logo: "/assets/images/logo/logo-2.svg",
   },
   {
-    title: "Nike Campaign",
+    title: "Persional Portfolio",
     description:
-      "Landing experience for Nike’s urban campaign, built to inspire movement and brand loyalty",
+      "Personal portfolio website showcasing my skills, projects, experience, and web development work.",
     year: "2024",
-    role: "Lead Product Designer",
+    role: "Lead Web Designer",
     tags: ["Brand", "Website", "Webflow"],
-    image: "/assets/images/section/work-3.jpg",
+    image: "/assets/images/section/Screenshot 2026-10-05 233536.jpg",
     logo: "/assets/images/logo/logo-2.svg",
   },
   
