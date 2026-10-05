@@ -19,7 +19,7 @@ export const services: Service[] = [
   },
   {
     id: "service-2",
-    title: "No-Code Development",
+    title: "Full-Stack Development",
     description:
       "Build fast, scalable websites using tools like Framer and Webflow—helping you launch quickly with designs that are easy to edit and maintain.",
     tags: ["Framer Builds", "Webflow Sites", "Scalable Launches"],

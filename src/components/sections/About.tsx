@@ -13,7 +13,7 @@ export function About() {
         modern technology
       </h4>
       <p className="s-desc text-black-56 scrolling-effect effectTop">
-        brand identity, and no-code development to help
+        brand identity, and Full-Stack Development to help
         <br className="d-none d-lg-block" /> businesses move faster while staying true to their personality. <br />
         <br />
         Every project is approached with both strategy and style—making sure <br className="d-none d-lg-block" />
